@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ishabrato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishabrato" height="30" width="40" /></a>
-<a href="https://fb.com/ishabrato.joardar" targhttps://github-readme-stats.vercel.app/api?username=techmaxtro&show_icons=true&locale=enet="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishabrato.joardar" height="30" width="40" /></a>
+<a href="https://fb.com/ishabrato.joardar" targh="https://github-readme-stats.vercel.app/api?username=techmaxtro&show_icons=true&locale=enet="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishabrato.joardar" height="30" width="40" /></a>
 <a href="https://instagram.com/officialmaxtro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="officialmaxtro" height="30" width="40" /></a>
 </p>
 
