@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="" alt="techmaxtro" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=techmaxtro&](https://github-readme-streak-stats.herokuapp.com?user=techmaxtro&theme=transparent&hide_border=true)https://github-readme-streak-stats.herokuapp.com?user=techmaxtro&theme=transparent&hide_border=true" alt="techmaxtro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techmaxtro&theme=transparent&hide_border=true" alt="techmaxtro" /></p>
