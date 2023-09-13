@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techmaxtro&show_icons=true&locale=en&layout=compact&theme=transparent" alt="techmaxtro" /></p>
 
-<p>&nbsp;<img align="center" src="" alt="techmaxtro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techmaxtro&show_icons=true&locale=en&theme=transparent" alt="techmaxtro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techmaxtro&theme=transparent&hide_border=true" alt="techmaxtro" /></p>
