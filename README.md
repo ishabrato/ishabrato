@@ -1,18 +1,15 @@
-<div align="center">
-</div>
-<h1 align="center">Hi 👋, I'm Ishabrato Joardar</h1>
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishabrato+Joardar" alt="Typing SVG" /></h1>
 <h3 <h3 align="center">A learner from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishabrato&label=Profile%20views&color=0e75b6&style=flat" alt="ishabrato" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ishabrato" target="blank"><img src="https://img.shields.io/twitter/follow/ishabrato?logo=twitter&style=for-the-badge" alt="ishabrato" /></a> </p>
 
 - 🔭 I’m currently studying **BCA at Future Institute of Engineering and Management**
-- 🌱 I’m currently learning **Java**
-- 👨‍💻 All of my projects are available at [https://ishabrato.github.io/](https://ishabrato.github.io/)
+- 🌱 I’m currently learning **AI/ML**
+- 👨‍💻 All of my projects are available at [**ishabrato.github.io**](https://ishabrato.github.io/)
 - 📫 How to reach me **work.ishabrato@gmail.com**
-- 🧩 My Hobbies **Puppetry, Photography**
+- 🎭 Professional Puppeter at [**Bango Pootool**](https://www.facebook.com/bangopootool/)
+- 🧩 My Hobby **Photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,12 +20,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  /></p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=python,django,java,c,html,css,ai,ps" />
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishabrato&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="ishabrato" /></p>
 
@@ -39,3 +33,4 @@
 ## 💰 You can help me by Donating
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ishabrato) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ishabrato)
+</div>
