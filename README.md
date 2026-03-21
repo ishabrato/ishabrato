@@ -4,8 +4,7 @@
 
 
 
-- 🔭 I’m currently studying **BCA at Future Institute of Engineering and Management**
-- 🌱 I’m currently learning **AI/ML**
+- 🔭 I’m currently studying **MCA at Netaji Subhash Engineering College**
 - 👨‍💻 All of my projects are available at [**ishabrato.github.io**](https://ishabrato.github.io/)
 - 📫 How to reach me **work.ishabrato@gmail.com**
 - 🎭 Professional Puppeter at [**Bango Pootool**](https://www.facebook.com/bangopootool/)
